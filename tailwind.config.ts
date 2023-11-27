@@ -8,8 +8,9 @@ const config: Config = {
   ],
   theme: {
     colors: {
-      jade: '#00a36c',
-      black: '#0a0a0a',
+      purple: '#5E2BFF',
+      black: '#28282B',
+      white: '#f4f4f4',
     },
     fontFamily: {
       roboto_slab: ['var(--font-roboto-slab)'],
