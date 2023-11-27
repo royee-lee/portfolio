@@ -5,12 +5,12 @@ export default function Home() {
     <div className="flex justify-center mt-16">
       <div className="max-w-screen-md">
         <h1 className="font-roboto_slab text-3xl underline decoration-purple">hi!</h1>
-        <p className="font-inconsolata mt-1.5">
+        <p className="font-inconsolata mt-4">
           Welcome to my corner of the internet! My name is{' '}
           <a className="font-bold underline decoration-purple">Roy Lee</a> and this is where I dump
           my thoughts and share what I've been working on.
         </p>
-        <p className="font-inconsolata mt-1.5">
+        <p className="font-inconsolata mt-4">
           I'm most interested in software engineering and machine learning, and am still trying to
           find an area to focus on in the vast domain of Computer Science. I currently study
           Computer Science @{' '}
@@ -19,7 +19,7 @@ export default function Home() {
           </a>
           , where I'm coming off of 1 year of co-op and entering my 4th year, w/ 1 more year to go.
         </p>
-        <p className="font-inconsolata mt-1.5">
+        <p className="font-inconsolata mt-4">
           I'm also looking for an internship for the summer of 2024! Previously, I've worked on
           full-stack software engineering @{' '}
           <a className="font-bold underline decoration-purple" href="https://www.sap.com/">
@@ -27,12 +27,12 @@ export default function Home() {
           </a>
           .
         </p>
-        <p className="font-inconsolata mt-1.5">
-          Beep-booping aside, I like to feed my family and friends my newest recipe, run around and
-          hit birdies, build keyboards and PCs, and scratch my competitive itch w/ collegiate
-          esports. Ask me about any of these!
+        <p className="font-inconsolata mt-4">
+          Beep-booping aside, I like to feed my family and friends my newest recipe, hit birdies on
+          the court, build keyboards and PCs, and scratch my competitive itch w/ collegiate esports.
+          Ask me about any of these!
         </p>
-        <p className="font-inconsolata mt-1.5">
+        <p className="font-inconsolata mt-4">
           If you're looking to chat, shoot me an{' '}
           <a
             className="font-bold underline decoration-purple"
