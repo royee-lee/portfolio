@@ -8,10 +8,11 @@ const config: Config = {
   ],
   theme: {
     colors: {
-      purple: '#5E2BFF',
-      purple2: '#825CFF',
-      purple3: '#C0ADFF',
-      black: '#21262e',
+      accent: '#0080FB',
+      accent2: '#4DA6FC',
+      accent3: '#99CCFD',
+      black: '#262626',
+      black2: '#050404',
       white: '#f4f4f4',
     },
     fontFamily: {
