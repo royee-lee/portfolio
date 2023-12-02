@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Roboto_Slab, Inconsolata } from 'next/font/google';
+import Splash from './components/splash';
 import Header from './components/header';
 import Footer from './components/footer';
 import './globals.css';
@@ -25,8 +26,9 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${roboto_slab.variable} ${inconsolata.variable}`}>
-      <body className="bg-grey text-white">
+      <body className="bg-white text-black">
         <main>
+          <Splash />
           <Header />
           {children}
           <Footer />

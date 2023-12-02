@@ -1,3 +1,83 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@keyframes slideUp {
+  0% {
+    transform: translateY(0%);
+  }
+
+  100% {
+    transform: translateY(-100%);
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(50vh);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
+}
+
+#transition-icon {
+  height: 10vh;
+  margin-top: 45vh;
+  animation: 1s cubic-bezier(0.25, 0.1, 0.25, 1) 0s 1 slideIn;
+  animation-fill-mode: forwards;
+  text-decoration-line: underline;
+  text-decoration-color: theme('colors.purple');
+}
+
+#transition-1 {
+  position: absolute;
+  top: 0;
+  z-index: 1040;
+  width: 100%;
+  height: 110%;
+  display: block;
+  background: theme('colors.white');
+  text-align: center;
+  animation: 1s cubic-bezier(0.73, 0.03, 0.87, 0.7) 1s 1 slideUp;
+  animation-fill-mode: forwards;
+}
+
+#transition-2 {
+  position: absolute;
+  top: 0;
+  z-index: 1039;
+  width: 100%;
+  height: 110%;
+  display: block;
+  background: theme('colors.purple');
+  animation: 1s cubic-bezier(0.73, 0.03, 0.87, 0.7) 1.1s 1 slideUp;
+  transform: translateY(-100%);
+}
+
+#transition-3 {
+  position: absolute;
+  top: 0;
+  z-index: 1038;
+  width: 100%;
+  height: 110%;
+  display: block;
+  background: theme('colors.purple2');
+  animation: 1s cubic-bezier(0.73, 0.03, 0.87, 0.7) 1.2s 1 slideUp;
+  transform: translateY(-100%);
+}
+
+#transition-4 {
+  position: absolute;
+  top: 0;
+  z-index: 1037;
+  width: 100%;
+  height: 110%;
+  display: block;
+  background: theme('colors.purple3');
+  animation: 1s cubic-bezier(0.73, 0.03, 0.87, 0.7) 1.3s 1 slideUp;
+  transform: translateY(-100%);
+}
