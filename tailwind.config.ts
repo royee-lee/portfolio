@@ -8,9 +8,9 @@ const config: Config = {
   ],
   theme: {
     colors: {
-      accent: '#0080FB',
-      accent2: '#4DA6FC',
-      accent3: '#99CCFD',
+      accent: '#0081FB',
+      accent2: '#4DA7FC',
+      accent3: '#99CDFD',
       black: '#262626',
       black2: '#050404',
       white: '#f4f4f4',
