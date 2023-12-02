@@ -11,7 +11,7 @@ const config: Config = {
       purple: '#5E2BFF',
       purple2: '#825CFF',
       purple3: '#C0ADFF',
-      black: '#050404',
+      black: '#21262e',
       white: '#f4f4f4',
     },
     fontFamily: {

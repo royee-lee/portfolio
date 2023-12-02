@@ -2,7 +2,7 @@ import './../globals.css';
 
 export default function Footer() {
   return (
-    <footer className="fixed left-0 bottom-0 w-full p-8 pb-8 border-t border-t-4 border-purple bg-black text-white font-inconsolata text-center">
+    <footer className="fixed left-0 bottom-0 w-full p-8 pb-8 border-t border-t-4 border-purple bg-white text-black font-inconsolata text-center">
       <p>
         <a
           className="p-4 hover:underline decoration-purple"
