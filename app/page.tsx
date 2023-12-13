@@ -42,7 +42,7 @@ export default function Home() {
           >
             email
           </a>
-          . If you're looking for my beep-booping results, check out my{' '}
+          . If you're looking for my beep-booping, check out my{' '}
           <a
             className="font-semibold underline decoration-accent"
             href="https://github.com/9uanlin"
