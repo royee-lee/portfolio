@@ -40,7 +40,7 @@
   width: 100%;
   height: 110%;
   display: block;
-  background: theme('colors.black2');
+  background: theme('colors.white');
   text-align: center;
   animation: 1s cubic-bezier(0.73, 0.03, 0.87, 0.7) 1s 1 slideUp;
   animation-fill-mode: forwards;

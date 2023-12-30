@@ -6,7 +6,7 @@ export default function Splash() {
     <div>
       <div id="transition-1">
         <div id="transition-icon">
-          <h1 className="font-roboto_slab text-5xl underline decoration-accent">hi!</h1>
+          <h1 className="font-roboto_slab text-6xl underline decoration-accent">hi!</h1>
         </div>
       </div>
       <div id="transition-2"></div>
