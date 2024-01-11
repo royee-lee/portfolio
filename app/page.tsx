@@ -38,7 +38,7 @@ export default function Home() {
           If you're looking to chat, shoot me an{' '}
           <a
             className="font-bold underline decoration-accent"
-            href="mailto:lee9uanlin@gmail.com"
+            href="mailto:royee.lee09@gmail.com"
             target="_blank"
             rel="noopener"
           >
@@ -47,7 +47,7 @@ export default function Home() {
           . If you're looking for my beep-booping, check out my{' '}
           <a
             className="font-semibold underline decoration-accent"
-            href="https://github.com/9uanlin"
+            href="https://github.com/royee-lee"
           >
             GitHub
           </a>
@@ -65,7 +65,7 @@ export default function Home() {
           .
         </p>
 
-        <h2></h2>
+        <h2 className="font-roboto_slab text-xl underline decoration-accent mt-4">tldrs</h2>
       </div>
     </div>
   );
