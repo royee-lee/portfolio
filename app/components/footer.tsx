@@ -14,7 +14,7 @@ export default function Footer() {
         </a>
         <a
           className="p-4 hover:underline decoration-accent"
-          href="mailto:lee9uanlin@gmail.com"
+          href="mailto:royee.lee09@gmail.com"
           target="_blank"
           rel="noopener"
         >
@@ -22,7 +22,7 @@ export default function Footer() {
         </a>
         <a
           className="p-4 hover:underline decoration-accent"
-          href="https://github.com/9uanlin"
+          href="https://github.com/royee-lee"
           target="_blank"
           rel="noopener"
         >
@@ -30,7 +30,7 @@ export default function Footer() {
         </a>
         <a
           className="p-4 hover:underline decoration-accent"
-          href="https://www.linkedin.com/in/9uanlin"
+          href="https://www.linkedin.com/in/royee"
           target="_blank"
           rel="noopener"
         >
