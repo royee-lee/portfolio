@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${roboto_slab.variable} ${inconsolata.variable}`}>
-      <body className="bg-white text-black2">
+      <body className="bg-white text-black2 mb-28">
         <main>
           <Splash />
           <Header />

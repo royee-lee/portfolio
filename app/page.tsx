@@ -74,9 +74,6 @@ export default function Home() {
           Learning and Data Mining classes are basically my life right now. Thanks for checking my
           site out and look forward to some cool projects in the future!
         </p>
-        <p className="font-inconsolata mt-4 leading-tight">
-          P.S. Sorry mobile viewers, I haven't fixed the CSS yet :{'('}
-        </p>
       </div>
     </div>
   );
