@@ -70,10 +70,9 @@ export default function Home() {
 
         <h2 className="font-roboto_slab text-xl underline decoration-accent mt-4">Notes</h2>
         <p className="font-inconsolata mt-4 leading-tight">
-          This is still a WIP - I'll be adding bits here and there when I can get a breather from
-          homework. There's a lot I want to add and write about but my Advanced Algorithms and
-          Machine Learning and Data Mining classes are basically my life right now. Thanks for
-          checking my site out and look forward to some cool projects in the future!
+          There's a lot I want to add and write about but my Advanced Algorithms and Machine
+          Learning and Data Mining classes are basically my life right now. Thanks for checking my
+          site out and look forward to some cool projects in the future!
         </p>
         <p className="font-inconsolata mt-4 leading-tight">
           P.S. Sorry mobile viewers, I haven't fixed the CSS yet :{'('}
