@@ -35,9 +35,6 @@ export default function Home() {
           of these!
         </p>
         <p className="font-inconsolata mt-4 leading-tight">
-          I also really really really like bread &#127838;
-        </p>
-        <p className="font-inconsolata mt-4 leading-tight">
           If you're looking to chat, shoot me an{' '}
           <a
             className="font-bold underline decoration-accent"
@@ -71,8 +68,9 @@ export default function Home() {
         <h2 className="font-roboto_slab text-xl underline decoration-accent mt-4">Notes</h2>
         <p className="font-inconsolata mt-4 leading-tight">
           There's a lot I want to add and write about but my Advanced Algorithms and Machine
-          Learning and Data Mining classes are basically my life right now. Thanks for checking my
-          site out and look forward to some cool projects in the future!
+          Learning and Data Mining classes are basically my life right now - I'll get around to it
+          once I get my head above water. Thanks for checking my site out and look forward to some
+          cool projects in the future!
         </p>
       </div>
     </div>
