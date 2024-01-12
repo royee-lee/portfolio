@@ -3,7 +3,7 @@ import './globals.css';
 export default function Home() {
   return (
     <div className="flex justify-center mt-16">
-      <div className="max-w-screen-md">
+      <div className="max-w-screen-md p-2.5">
         <h1 className="font-roboto_slab text-3xl underline decoration-accent">hi!</h1>
         <p className="font-inconsolata mt-4 leading-tight">
           Welcome to my corner of the internet! My name is{' '}

@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  min-height: 100vh;
+}
+
 @keyframes slideUp {
   0% {
     transform: translateY(0%);
