@@ -35,6 +35,9 @@ export default function Home() {
           of these!
         </p>
         <p className="font-inconsolata mt-4 leading-tight">
+          I also really really really like bread &#127838;
+        </p>
+        <p className="font-inconsolata mt-4 leading-tight">
           If you're looking to chat, shoot me an{' '}
           <a
             className="font-bold underline decoration-accent"

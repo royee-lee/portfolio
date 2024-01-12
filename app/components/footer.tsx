@@ -6,7 +6,7 @@ export default function Footer() {
       <p>
         <a
           className="p-4 hover:underline decoration-accent"
-          href="resume.pdf"
+          href="/files/resume.pdf"
           target="_blank"
           rel="noopener"
         >
