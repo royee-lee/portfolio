@@ -19,11 +19,15 @@ export default function Home() {
           <a className="font-bold underline decoration-accent" href="https://www.ubc.ca/">
             The University of British Columbia
           </a>
-          , where I'm coming off of 1 year of co-op and entering my 4th year.
+          , where I'll be graduating from in May 2025.
         </p>
         <p className="font-inconsolata mt-4 leading-tight">
-          I'm also looking for an internship for the summer of 2024! Previously, I've worked on
-          full-stack software engineering @{' '}
+          I'm also looking for new grad SWE positions for 2025! Previously, I've worked on a new
+          feature for IAM Identity Center @{' '}
+          <a className="font-bold underline decoration-accent" href="https://aws.amazon.com/">
+            AWS
+          </a>{' '}
+          and full-stack software engineering @{' '}
           <a className="font-bold underline decoration-accent" href="https://www.sap.com/">
             SAP
           </a>
